@@ -17,3 +17,4 @@ if (!$username = Input::get('user')) {
     <p>Full name: <?php echo escape($data->name); ?></p>
 <?php
 }
+// End of php profile
